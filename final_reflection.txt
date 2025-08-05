@@ -1,0 +1,37 @@
+Throughout this DSA course, I worked hard to stay on track, even when things got hectic. While I hit a few bumps along the way, I put in consistent effort and learned a lot. 
+I approached this class with the goal of sharpening my understanding of data structures and algorithms, and while I didn’t perform perfectly, I believe I showed commitment and growth throughout the term.
+
+Attendance & Punctuality
+I made it a priority to show up to class on time and did so consistently. While I did miss a couple of classes, the majority of the time I was fully present and punctual. 
+I treated this class with the same level of seriousness I would a job I care about, showing up ready to engage and learn.
+
+Participation & Engagement
+I actively participated in class discussions, regularly answered and asked questions, and engaged with the material during our sessions. 
+I also tried to assist classmates when I could, especially when it came to troubleshooting logic or understanding instructions. 
+While I didn’t always have time to go beyond the required assignments due to my work schedule, I made sure to give the coursework my full attention.
+
+Presence & Focus
+When I was in class, I was mentally there. I wasn’t distracted by multitasking or outside responsibilities. I stayed engaged, took notes, and followed along with the examples and discussions. 
+On a few occasions when I hit roadblocks, I reached out for help through various resources.
+
+Assignment Timeliness
+This is one area where I fell short. I submitted a few assignments late, including this final reflection, and I also missed one entirely. 
+These lapses weren’t due to a lack of interest or care — they were mostly the result of balancing a heavy workload and my job. 
+That said, I take full responsibility for not managing my time better and see this as an area for improvement going forward.
+
+Reflection & Growth
+I consistently reviewed solutions when they were posted, compared them to my own work, and reflected on where I could improve. 
+Each assignment was an opportunity to sharpen my coding logic and better understand core principles like recursion, hash tables, and linked structures. 
+I feel like I made noticeable progress in both my technical skills and my confidence.
+
+Code Quality
+For the assignments I completed, I put in a solid effort to meet all the requirements and to write clear, functional code. 
+I followed the Programmer’s Pact as closely as I could, although I did make a couple of mistakes, whether it was missing small formatting rules or forgetting to include a comment, or using multiple return statements. 
+Still, I tried to revise based on feedback and make incremental improvements with each assignment.
+
+Overall, I believe I treated this class with respect and seriousness, even if my performance wasn’t flawless. 
+I learned a lot, and I feel more prepared for what comes next in my academic and professional journey. 
+I also recognize that I could have been more consistent in managing my workload and responsibilities — something I’ll be mindful of going forward.
+
+Based on the above, I propose B as my final grade.
+
